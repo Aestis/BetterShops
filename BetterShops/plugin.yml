@@ -1,0 +1,9 @@
+name: BetterShops
+main: de.aestis.bettershops.Main
+description: Shops for Jenominers.de
+version: 0.9.3
+author: Guerkchen385
+api-version: 1.13
+commands:
+   disenchanter:
+      description: Info
